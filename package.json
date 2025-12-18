@@ -8,6 +8,6 @@
     "dev:client": "npm --prefix client run dev"
   },
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   }
 }
