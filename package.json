@@ -1,0 +1,13 @@
+{
+  "name": "car-rental-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm --prefix client run build",
+    "build:client": "npm --prefix client run build",
+    "dev:client": "npm --prefix client run dev"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
